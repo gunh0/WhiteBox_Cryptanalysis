@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
-#include "tbox.h"
+#include "findKey_tbox.h"
 
 /*
  * Find the key in the Tbox table below.
