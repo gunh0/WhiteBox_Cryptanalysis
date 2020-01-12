@@ -75,9 +75,3 @@ WBC(White Box Cryptography)는 Software 방식, 즉 암호키가 노출되지 �
 
 
 ![image](https://user-images.githubusercontent.com/41619898/62831675-2417d480-bc5e-11e9-8f2c-fad3f23bbf04.png)
-
-
-
-
-
-[출처] [HSM 과 White Box Cryptography](http://blog.naver.com/aepkoreanet/221492131920)|작성자 [AEP코리아네트](http://blog.naver.com/aepkoreanet)
