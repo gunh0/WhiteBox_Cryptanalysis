@@ -58,7 +58,7 @@ Black-box 공격의 어려움(난이도)를 알기 때문에, 암호키 탈취�
 
  
 
-##### **White-box** **공격을 방지하기 위한 Solution**
+### **White-box** **공격을 방지하기 위한 Solution**
 
 White-box 공격을 방지하기 위한 대응 Solution으로 나온 것이 HSM 과 WBC(White Box Cryptography) 이다.
 
